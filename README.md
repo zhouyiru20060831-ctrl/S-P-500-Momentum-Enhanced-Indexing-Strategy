@@ -33,10 +33,7 @@ universe构建：基于全市场高流动性样本池。
 
 采用 Z-Score 标准化并进行 ±3 标准差的 Winsorization 处理，减少极端异常值对选股的影响：
 
-<img width="311" height="72" alt="截屏2026-05-21 下午4 16 01" src="https://github.com/user-attachments/assets/59f531bf-bba9-4405-b9f6-8cad3db64a97" />
-
-
-<img width="270" height="22" alt="截屏2026-05-21 下午4 16 09" src="https://github.com/user-attachments/assets/986896d5-a1ab-4ccd-8758-bcb05f46140c" />
+<img width="403" height="126" alt="截屏2026-05-21 下午4 29 36" src="https://github.com/user-attachments/assets/088262e5-d360-4b9f-bc53-f55d0d0b6628" />
 
 5、组合优化与执行
 
