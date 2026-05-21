@@ -23,11 +23,11 @@ universe构建：基于全市场高流动性样本池。
 
 2、动量因子计算：
 
-<img width="335" height="51" alt="截屏2026-05-21 下午1 31 39" src="https://github.com/user-attachments/assets/9f9273c3-5917-4973-b640-d48abd4b98ff" />
+<img width="229" height="33" alt="截屏2026-05-21 下午3 42 31" src="https://github.com/user-attachments/assets/0f6af53b-9ae9-4004-aa58-12f933613c3f" />
 
 3、风险调整：（剔除21天回溯期，使用231天滚动标准差）：
 
-<img width="375" height="38" alt="截屏2026-05-21 下午1 46 47" src="https://github.com/user-attachments/assets/22089cbc-5400-47eb-a83d-0a5a30a9ef9f" />
+<img width="284" height="35" alt="截屏2026-05-21 下午3 42 39" src="https://github.com/user-attachments/assets/a661c183-b2ce-423a-92e2-4b2a90f6b7a5" />
 
 4、截面标准化
 
