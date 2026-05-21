@@ -35,6 +35,8 @@ universe构建：基于全市场高流动性样本池。
 
 <img width="128" height="46" alt="截屏2026-05-21 下午6 43 09" src="https://github.com/user-attachments/assets/dcd60434-aef2-4b06-885a-9437c906104f" />
   
+<img width="680" height="97" alt="截屏2026-05-21 下午6 46 05" src="https://github.com/user-attachments/assets/7f7c8719-1d47-407e-b281-d534d10ef24a" />
+
 <img width="275" height="86" alt="截屏2026-05-21 下午6 33 51" src="https://github.com/user-attachments/assets/62344eb4-809b-4405-ab16-ff49a5fca02d" />
 
 5、组合优化与执行
