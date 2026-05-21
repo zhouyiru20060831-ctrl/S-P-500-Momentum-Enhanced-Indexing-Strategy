@@ -21,8 +21,6 @@
 
 universe构建：基于全市场高流动性样本池。
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
 2、动量因子计算：
 
 <img width="229" height="33" alt="截屏2026-05-21 下午3 42 31" src="https://github.com/user-attachments/assets/0f6af53b-9ae9-4004-aa58-12f933613c3f" />
@@ -34,6 +32,10 @@ universe构建：基于全市场高流动性样本池。
 4、截面标准化
 
 采用 Z-Score 标准化并进行 ±3 标准差的 Winsorization 处理，减少极端异常值对选股的影响：
+
+<img width="128" height="46" alt="截屏2026-05-21 下午6 43 09" src="https://github.com/user-attachments/assets/dcd60434-aef2-4b06-885a-9437c906104f" />
+
+<img width="899" height="155" alt="截屏2026-05-21 下午6 43 33" src="https://github.com/user-attachments/assets/1af8fa1d-02d8-42bc-a95d-a754033e5b07" />
 
 <img width="275" height="86" alt="截屏2026-05-21 下午6 33 51" src="https://github.com/user-attachments/assets/62344eb4-809b-4405-ab16-ff49a5fca02d" />
 
