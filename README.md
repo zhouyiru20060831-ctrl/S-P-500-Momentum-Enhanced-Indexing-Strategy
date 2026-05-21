@@ -20,6 +20,8 @@
 
 universe构建：基于全市场高流动性样本池。
 
-动量因子计算：<img width="335" height="51" alt="截屏2026-05-21 下午1 31 39" src="https://github.com/user-attachments/assets/9f9273c3-5917-4973-b640-d48abd4b98ff" />
+动量因子计算：
+
+<img width="335" height="51" alt="截屏2026-05-21 下午1 31 39" src="https://github.com/user-attachments/assets/9f9273c3-5917-4973-b640-d48abd4b98ff" />
 
 
