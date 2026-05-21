@@ -32,10 +32,7 @@ universe构建：基于全市场高流动性样本池。
 4、截面标准化
 
 采用 Z-Score 标准化并进行 ±3 标准差的 Winsorization 处理，减少极端异常值对选股的影响：
-
-<img width="128" height="46" alt="截屏2026-05-21 下午6 43 09" src="https://github.com/user-attachments/assets/dcd60434-aef2-4b06-885a-9437c906104f" />
-#
-<img width="680" height="97" alt="截屏2026-05-21 下午6 46 05" src="https://github.com/user-attachments/assets/5e258b6d-37b2-4fa3-b63d-6f04d63a914e" />
+<img width="128" height="46" alt="截屏2026-05-21 下午6 43 09" src="https://github.com/user-attachments/assets/dcd60434-aef2-4b06-885a-9437c906104f" /><img width="680" height="97" alt="截屏2026-05-21 下午6 46 05" src="https://github.com/user-attachments/assets/5e258b6d-37b2-4fa3-b63d-6f04d63a914e" />
 
 <img width="275" height="86" alt="截屏2026-05-21 下午6 33 51" src="https://github.com/user-attachments/assets/62344eb4-809b-4405-ab16-ff49a5fca02d" />
 
